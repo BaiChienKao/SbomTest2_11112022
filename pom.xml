@@ -61,6 +61,27 @@
 	    <scope>test</scope>
 	</dependency>
 
+	<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
+	<dependency>
+	    <groupId>org.apache.tomcat</groupId>
+	    <artifactId>tomcat-catalina</artifactId>
+	    <version>10.1.0-M8</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.deeplearning4j/deeplearning4j-core -->
+	<dependency>
+	    <groupId>org.deeplearning4j</groupId>
+	    <artifactId>deeplearning4j-core</artifactId>
+	    <version>1.0.0-M2.1</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.apache.spark/spark-core -->
+	<dependency>
+	    <groupId>org.apache.spark</groupId>
+	    <artifactId>spark-core_2.13</artifactId>
+	    <version>3.3.0</version>
+	</dependency>
+
 
 
   </dependencies>
